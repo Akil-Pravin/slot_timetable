@@ -141,6 +141,8 @@ Execute the program using runserver command.
 
 ## OUTPUT :
 
+<img width="1913" height="1144" alt="output png" src="https://github.com/user-attachments/assets/565f3ab5-3ff9-41a5-a4e3-33c04a38580d" />
+
 
 
 
